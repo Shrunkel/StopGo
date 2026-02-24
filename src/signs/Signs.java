@@ -6,7 +6,7 @@ package signs;
 
 /**
  *
- * @author Sketchy_Humour
+ * @author ST10469845
  */
 public class Signs {
 
